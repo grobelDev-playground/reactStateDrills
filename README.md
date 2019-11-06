@@ -1,2 +1,0 @@
-# reactStateDrills
-Created with CodeSandbox
