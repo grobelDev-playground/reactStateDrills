@@ -2,7 +2,7 @@ import React from "react";
 
 class RouletteGun extends React.Component {
   constructor(props) {
-    console.log("props in constructor", props);
+    // console.log("props in constructor", props);
     super(props);
     // console.log(this.props.bulletInChamber || 8);
     this.state = {
